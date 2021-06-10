@@ -1,5 +1,3 @@
-package hashes;
-
 
 	//An AVL tree node 
 	public class TNode {
