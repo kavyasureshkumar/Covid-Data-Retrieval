@@ -12,7 +12,6 @@ public class HashMap1 {
 			key = k;
 			value = v;
 		}
-
 	};
 
 	// linked list node
