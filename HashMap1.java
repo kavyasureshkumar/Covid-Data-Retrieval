@@ -1,5 +1,5 @@
 import java.util.Objects;
-package hashes
+
 public class HashMap1 {
 	// Defining a data item consisting data and key,
 	// based on which the search is to be conducted in a hash table.
