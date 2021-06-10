@@ -1,5 +1,3 @@
-package hashes;
-
 import java.util.Objects;
 
 public class HashMap1 {
