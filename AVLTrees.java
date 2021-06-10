@@ -1,5 +1,3 @@
-package hashes;
-
 
 public class AVLTrees {
 
